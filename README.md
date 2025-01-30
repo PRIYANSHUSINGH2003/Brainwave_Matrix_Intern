@@ -1,6 +1,3 @@
-Here's the `README.md` file for your Doctor Website project:
-
-```markdown
 # Doctor Website Project Showcase
 
 ## Project Overview
